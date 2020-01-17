@@ -1,0 +1,71 @@
+[2020-01-13 18:47:25,223] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:66)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:426)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:218)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:191)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:178)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-01-13 18:47:25,233] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:66)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:426)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:218)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:191)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:178)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-01-13 18:48:19,174] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:66)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:426)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:218)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:191)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:178)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-01-13 18:48:19,176] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:66)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:426)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:218)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:191)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:178)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-01-14 10:33:20,361] SEVERE {b7a.log.crash} - java.lang.IllegalStateException 
+error: java.lang.IllegalStateException message=illegal function invocation
+	at ballerina.http:nativeRespond(http_connection.bal:65535)
+	   ballerina.http.Caller:respond(http_connection.bal:56)
+	   $value$studentService__service_0:studentService(main.bal:106) 
+[2020-01-14 19:42:32,169] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:58)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:426)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:218)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:191)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:178)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-01-14 19:42:32,255] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:58)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:426)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:218)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:191)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:178)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
